@@ -1,0 +1,121 @@
+<mxfile host="Electron" agent="draw.io">
+  <diagram id="d1" name="Use Case Skenario Memesan Lapangan">
+    <mxGraphModel dx="1247" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1050" pageHeight="1119" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Usecase Skenario&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="1010" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Nama Use Case&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="20" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;Memesan Lapangan&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="525" y="54" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Aktor&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="20" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;(Mahasiswa atau Dosen)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="525" y="88" as="geometry" />
+        </mxCell>
+        <mxCell id="n7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Tujuan&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="20" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="n8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;Anggota kampus memperoleh pemesanan lapangan olahraga pada slot waktu yang masih tersedia.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="525" y="122" as="geometry" />
+        </mxCell>
+        <mxCell id="n9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#000000;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Deskripsi&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="96" width="520" x="20" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="n10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;Pengguna melihat jadwal lapangan, memilih slot yang kosong, lalu sistem memeriksa ketersediaan slot&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;sebelum pemesanan disimpan dengan status Menunggu Pembayaran. Setelah pemesanan tercatat, Pengguna&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;dapat membayar sewa (extend: Membayar Sewa) atau membatalkan pemesanan yang belum dibayar (extend:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;Membatalkan Pemesanan).&lt;/span&gt;" vertex="1">
+          <mxGeometry height="96" width="505" x="525" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="n11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Kegiatan Aktor&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="32" width="505" x="20" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="n12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Respon Sistem&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="32" width="505" x="525" y="252" as="geometry" />
+        </mxCell>
+        <mxCell id="n13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Skenario Normal&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="28" width="1010" x="20" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="n14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;1. Pengguna memilih menu Pesan Lapangan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="n15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;2. Sistem menampilkan jadwal lapangan beserta slot waktu&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;yang masih tersedia (include: Melihat Jadwal Lapangan).&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="312" as="geometry" />
+        </mxCell>
+        <mxCell id="n16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;3. Pengguna memilih lapangan dan slot waktu yang diinginkan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="505" x="20" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;4. Sistem memeriksa ketersediaan slot yang dipilih (include:&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;Memeriksa Ketersediaan Slot). Jika slot tersedia, sistem&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;menampilkan ringkasan pemesanan untuk dikonfirmasi.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="505" x="525" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;5. Pengguna meninjau ringkasan pemesanan dan memilih&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;Konfirmasi.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="n19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;6. Sistem menyimpan pemesanan dengan status Menunggu&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;Pembayaran dan menampilkan bukti pemesanan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="425" as="geometry" />
+        </mxCell>
+        <mxCell id="n20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Skenario Alternative&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="28" width="1010" x="20" y="473" as="geometry" />
+        </mxCell>
+        <mxCell id="n21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b style=&quot;&quot;&gt;A. Slot tidak tersedia (percabangan dari langkah 4)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="1010" x="20" y="501" as="geometry" />
+        </mxCell>
+        <mxCell id="n22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;7. Sistem menampilkan pesan bahwa slot sudah terisi dan&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;menampilkan kembali jadwal lapangan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="n24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;8. Pengguna memilih lapangan dan slot waktu lain.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="583" as="geometry" />
+        </mxCell>
+        <mxCell id="n25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;9. Sistem memeriksa ulang ketersediaan slot (kembali ke&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;langkah 4).&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="583" as="geometry" />
+        </mxCell>
+        <mxCell id="n26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b style=&quot;&quot;&gt;B. Pengguna membatalkan proses pemesanan (percabangan dari langkah 5)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="1010" x="20" y="631" as="geometry" />
+        </mxCell>
+        <mxCell id="n27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;10. Pengguna memilih Batal pada ringkasan pemesanan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="n28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;11. Sistem tidak menyimpan pemesanan dan kembali ke menu&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;utama.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="665" as="geometry" />
+        </mxCell>
+        <mxCell id="n29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b style=&quot;&quot;&gt;C. Extend: Membayar Sewa (extension point: Pembayaran; condition: pemesanan berstatus Menunggu Pembayaran dan Pengguna&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b style=&quot;&quot;&gt;memilih membayar, setelah langkah 6)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="1010" x="20" y="713" as="geometry" />
+        </mxCell>
+        <mxCell id="n30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;12. Pengguna memilih Bayar Sewa.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="20" y="761" as="geometry" />
+        </mxCell>
+        <mxCell id="n31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;13. Sistem menampilkan rincian biaya sewa.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="34" width="505" x="525" y="761" as="geometry" />
+        </mxCell>
+        <mxCell id="n32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;14. Pengguna melakukan pembayaran.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="n33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;15. Sistem mencatat pembayaran dan mengubah status pemesanan&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;menjadi Lunas.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="795" as="geometry" />
+        </mxCell>
+        <mxCell id="n34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b style=&quot;&quot;&gt;D. Extend: Membatalkan Pemesanan (extension point: Pembatalan; condition: pemesanan belum dibayar dan Pengguna memilih&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b style=&quot;&quot;&gt;membatalkan, setelah langkah 6)&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="1010" x="20" y="843" as="geometry" />
+        </mxCell>
+        <mxCell id="n35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;16. Pengguna memilih Batalkan Pemesanan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="20" y="891" as="geometry" />
+        </mxCell>
+        <mxCell id="n36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;17. Sistem mengubah status pemesanan menjadi Dibatalkan dan&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;menampilkan konfirmasi pembatalan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="48" width="505" x="525" y="891" as="geometry" />
+        </mxCell>
+        <mxCell id="n37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1.2;align=center;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;&lt;b&gt;Skenario Akhir&lt;/b&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="28" width="1010" x="20" y="939" as="geometry" />
+        </mxCell>
+        <mxCell id="n38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.2;align=left;verticalAlign=middle;spacingLeft=6;spacingRight=6;" value="&lt;span style=&quot;font-size:12px&quot;&gt;- Jalur normal: pemesanan tersimpan dengan status Menunggu Pembayaran.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;- Setelah extend Membayar Sewa: status pemesanan menjadi Lunas.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;- Setelah extend Membatalkan Pemesanan: status pemesanan menjadi Dibatalkan.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size:12px&quot;&gt;- Alternative B: tidak ada pemesanan yang tersimpan.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="123" width="1010" x="20" y="967" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
